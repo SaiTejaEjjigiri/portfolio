@@ -84,7 +84,7 @@ const Resume = () => {
               <div className="pointer"></div>
             </li>
 
-            <li className="resume-item">
+            {/* <li className="resume-item">
               <div className="title">
                 <a
                   href="https://www.linkedin.com/company/siemens/"
@@ -111,7 +111,7 @@ const Resume = () => {
                       in the bean classes.</p>
               </div>
               <div className="pointer"></div>
-            </li>
+            </li> */}
 
             <li className="resume-item">
               {/* <div className="title">
@@ -156,7 +156,7 @@ const Resume = () => {
               </div>
             </div>
 
-            {/* <li className="resume-item">
+            <li className="resume-item">
               <div className="title">
                 <a
                   href="https://www.murraystate.edu/" 
@@ -185,7 +185,7 @@ const Resume = () => {
                 <p>- Graduate Assistant - University Libraries</p>
               </div>
               <div className="pointer"></div>
-            </li> */}
+            </li>
 
             <li className="resume-item">
               <div className="title">
