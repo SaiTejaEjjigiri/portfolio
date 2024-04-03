@@ -9,7 +9,7 @@ const Resume = () => {
     <div className="resume-container">
         <div className="download-section">
             <a                 
-            href="/resume.pdf"
+            href="/Sai_Resume.pdf"
             className="resume-download"
             >
             Download CV
