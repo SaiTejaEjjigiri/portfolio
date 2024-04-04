@@ -78,7 +78,7 @@ const Home = () => {
 
       <div className="download-section">
             <a                 
-            href="/Sai_Resume.pdf"
+            href="/SaiTeja_Resume_in.pdf"
             className="resume-download"
             >
             Download CV
