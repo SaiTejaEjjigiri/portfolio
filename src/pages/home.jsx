@@ -25,18 +25,18 @@ const Home = () => {
       <div className="home-intro">
         <p className="home-university">Hello World!</p>
         <p className="home-name">I am Sai Teja </p>
-        <p className="home-university">Ex - Senior Software Engineer @ Albertsons
+        <p className="home-university">Senior Software Engineer @ Albertsons
         {/* <br></br>  
         <br></br>  */}
         </p>
-        <p className="home-address">Perth Amboy, New Jersey, USA</p>
+        <p className="home-address">New Jersey, USA</p>
       </div>
 
       <div className="home-icons-wrapper">
         <ul>
           <li>
             <a 
-              href="https://www.linkedin.com/in/saiteja-ejjigiri-957816254//" 
+              href="https://www.linkedin.com/in/saiteja-ejjigiri/" 
               target="_blank" 
               rel="noopener noreferrer"
             >
@@ -78,7 +78,7 @@ const Home = () => {
 
       <div className="download-section">
             <a                 
-            href="/SaiTeja_Resume_in.pdf"
+            href="/SaiTejaResume-In.pdf"
             className="resume-download"
             >
             Download CV

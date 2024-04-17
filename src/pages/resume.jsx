@@ -9,7 +9,7 @@ const Resume = () => {
     <div className="resume-container">
         <div className="download-section">
             <a                 
-            href="/SaiTeja_Resume_in.pdf"
+            href="/SaiTejaResume-In.pdf"
             className="resume-download"
             >
             Download CV
@@ -84,7 +84,7 @@ const Resume = () => {
               <div className="pointer"></div>
             </li>
 
-            {/* <li className="resume-item">
+            <li className="resume-item">
               <div className="title">
                 <a
                   href="https://www.linkedin.com/company/siemens/"
@@ -100,7 +100,7 @@ const Resume = () => {
               Software Engineer
               </div>
 
-              <div className="sub-sub-title">October 2026 - Aril 2019</div>
+              <div className="sub-sub-title">October 2017 - Aril 2019</div>
 
               <div className="content">
                 <p><b>Skills</b>: (Java, Cassandra, Mysql, Postman APIs, Microsoft Azure, Kafka)</p>
@@ -111,7 +111,7 @@ const Resume = () => {
                       in the bean classes.</p>
               </div>
               <div className="pointer"></div>
-            </li> */}
+            </li>
 
             <li className="resume-item">
               {/* <div className="title">
